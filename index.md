@@ -5,3 +5,7 @@
 # e one to six
 # f one to six
 # g one to six
+
+alt-text!
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
