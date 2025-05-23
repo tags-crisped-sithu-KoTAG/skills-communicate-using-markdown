@@ -25,3 +25,9 @@ alt-text!
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+alt-text!
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
